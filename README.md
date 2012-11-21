@@ -1,0 +1,1 @@
+This is just a simple example of how to take screen captures using MonoTouch.
